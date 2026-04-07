@@ -9,7 +9,7 @@ This workspace contains a complete implementation of the Senior Full Stack Mobil
 ## 1) Backend (Task A)
 
 ```bash
-cd /Users/codespace/fit-tech/fit-tech-backend
+cd /Users/codespace/fit-tech-SaaS/fit-tech-backend
 npm install
 npm run dev
 ```
@@ -41,7 +41,7 @@ npm run build
 ## 2) Mobile App (Task B)
 
 ```bash
-cd /Users/codespace/fit-tech/fit-tech-app
+cd /Users/codespace/fit-tech-SaaS/fit-tech-app
 npm install
 npx expo start
 ```
